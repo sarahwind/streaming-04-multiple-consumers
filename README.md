@@ -58,3 +58,5 @@ Which worker gets which tasks? *the first worker ran gets the odd tasks; the sec
 ## Screenshot
 
 See a running example with at least 3 concurrent process windows here:
+
+![Sarah Windeknecht Screenshot](multiple_consumers_screenshot.png)
