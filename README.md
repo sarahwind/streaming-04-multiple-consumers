@@ -45,9 +45,9 @@ Will it terminate on its own? How do you know?
 
 Follow the tutorial. 
 Add multiple tasks (e.g. First message, Second message, etc.)
-How are tasks distributed? 
+How are tasks distributed? *evenly between the two workers*
 Monitor the windows with at least two workers. 
-Which worker gets which tasks?
+Which worker gets which tasks? *the first worker ran gets the odd tasks; the second worker gets the even tasks* 
 
 
 ## Reference
